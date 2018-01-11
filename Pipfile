@@ -11,6 +11,7 @@ flask-wtf = "*"
 flask-sqlalchemy = "*"
 flask-migrate = "*"
 pendulum = "*"
+flask-login = "*"
 
 
 [dev-packages]
